@@ -84,4 +84,26 @@
   color: rgb(254, 254, 254);
 }
 
+.title {
+  position: relative;
+}
+
+.name {
+  position: absolute;
+
+  margin-top: 88px;
+  margin-left: 41%;
+}
+
+.first-name {
+  font: 50px "Roboto", sans-serif;
+  color: white;
+}
+
+.profession {
+  font: 35px "Roboto", sans-serif;
+  color: #5b9798;
+}
+
+
 
