@@ -1,0 +1,45 @@
+/* -------------------------HEADER---------------------------- */
+
+
+.header {
+  position: relative;
+
+  width: 1024px;
+  height: 290px;
+  margin: 20px auto;
+
+  background-color: #31393b;
+}
+
+.block-photo {
+  position: absolute;
+
+  width: 300px;
+  height: 1024px;
+  margin-top: -36px;
+  margin-left: 36px;
+
+  background-color: #61a7a7;
+}
+
+.photo {
+  width: 200px;
+  height: 200px;
+  margin: 50px auto;
+  overflow: hidden;
+
+  background: url("img/logo.png");
+  border: 10px solid #5b9798;
+  -webkit-border-radius: 100px;
+     -moz-border-radius: 100px;
+          border-radius: 100px;
+  visibility: visible;
+}
+
+.info {
+  width: 250px;
+  height: 250px;
+  margin: 150px auto;
+}
+
+
