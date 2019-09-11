@@ -28,7 +28,8 @@
   margin: 50px auto;
   overflow: hidden;
 
-  background: url("img/logo.png");
+  background: url("img/logo.jpg") 100% 100% no-repeat;
+  background-size: cover;
   border: 10px solid #5b9798;
   -webkit-border-radius: 100px;
      -moz-border-radius: 100px;
